@@ -12,133 +12,91 @@
 <link rel="canonical" href="privacy-policy.html">
 <link rel="shortcut icon"  href="img/"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- <style>
-   
-        .navbar-custom {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 0.5rem 1rem;
-        }
-        .navbar-left {
-            justify-content: flex-start;
-        }
-        .navbar-left .links {
-            margin-left: auto;
-        }
-        .navbar-center {
-            justify-content: center;
-            text-align: center;
-        }
-        .navbar-center .links {
-            display: inline-block;
-            margin: 0 auto;
-        }
-        .parallax {
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
+<style type="text/css">
+.w439853f74856960c114dcc4b36569a4a a{
+font-size:16px;
 }
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 0;
+ul{
+list-style: circle;
 }
-.overlay-content {
-    position: relative;
-    z-index: 0;
+.w1cac1de2c04c4f58e2ed97b9774cc690 p,.w1cac1de2c04c4f58e2ed97b9774cc690 a,.w1cac1de2c04c4f58e2ed97b9774cc690 span,.w1cac1de2c04c4f58e2ed97b9774cc690 label{
+font-size:16px!important;
 }
+.nav-item{
+padding-left:8.4px;
+padding-right:7.7px;
+padding-top:4.5px;
+padding-bottom:4.6px;
+}
+a:hover{
+color:#ffffff;background:#ffc658!important;
+}
+html{
+scroll-behavior: smooth;
+}
+.w439853f74856960c114dcc4b36569a4a p,.w439853f74856960c114dcc4b36569a4a span,.w439853f74856960c114dcc4b36569a4a label{
+font-size:16px!important;
+}
+footer{
+background:#0e0e0e;
+color:#ffffff;
+}
+.tde2e3b542342fa8f9ea197c50623e2be{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+.eaf1b0ed152d64649fa0fa103b92c34be:hover{
+box-shadow: 0 49.5px 49.6px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+.btn-md{
+padding: 15.5px 29.6px;
+border-radius: 0;
+}
+footer *{
+font-size:16px !important;
+}
+.w1cac1de2c04c4f58e2ed97b9774cc690 a,.w439853f74856960c114dcc4b36569a4a a{
+color:#040404!important;
+text-decoration: underline !important;
+}
+a{
+text-decoration: none!important;
+}
+.navbar a{
+font-size: 18.3px!important;
+font-weight: bold;
+}
+.nav-link{
+color: #000000;
 
-#section0 h1 , #section0 h1 a{
-    font-size: 60px;
-    color:#000000;
-    font-family:Poppins;
-        font-style: normal;
-   
-} 
-#section0 h2 , #section0 h2 a{
-
-    font-size: 50px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section0 h3, #section0 h3 a{
-    font-size: 40px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section0 h4, #section0 h4 a{
-    font-size: 30px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}   
-#section0 h5 , #section0 h5 a{
-    font-size: 20px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section0 h6 , #section0 h6 a{
-    font-size: 18px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}    
-#section0 p{
-    font-size: 14px;
-    color:#000000;
-     font-family:Poppins;
-        font-style: normal;
-   
-}       
-    </style>
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+</style>
 </head>
 <body>
-
-        <style>
-        .navbar-custom a:hover{
-                color:#fd834c!important;
-                background-color:#ffffff;
-        }
-
-        </style>
-        <nav class="navbar-custom" style="
-            background-color: #ffffff; 
-            color: #000000; 
-            height: 150px; 
-            font-size: 16px; 
-            font-family: Poppins; 
-            box-shadow: ;
-            
-            padding-left:50px;
-            padding-right:0px;
-             
-        ">
-            <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
-                
-                <div class="links ml-4" style="display: flex; flex: 1; justify-content: flex-end; align-items: center;">
-                    
-                </div>
-            </div>
-        </nav>
-    </nav>
-
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="index.html"  ></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="d-flex navbar-nav ml-auto align-items-center"><li class="nav-item ">
+<a class="xed7b2a93c7e6eceb17b8f56251ac3191 nav-link" href="index.html"  >test</a>
+</li><li class="nav-item"><a class="xed7b2a93c7e6eceb17b8f56251ac3191 nav-link" rel=nofollow href="about-us.html">About Us</a>
+</li></ul>
+</div>
+</nav>
 <section class="container" style="min-height: 80vh;">
 <h1>Privacy Policy for </h1>
 <p>At  one of our main priorities is the privacy of our visitors.
@@ -201,4 +159,37 @@ This website is owned and published by:
 </br>
 </p>
 </section>
- 
+<footer>
+<div class="container pt-5 py-4" >
+<div class="row"><div class="col-lg-3"><p><a class="xed7b2a93c7e6eceb17b8f56251ac3191" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="xed7b2a93c7e6eceb17b8f56251ac3191" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="xed7b2a93c7e6eceb17b8f56251ac3191" href="about-us.html" rel="nofollow">About Us</a></p>
+</p>
+</div></div>
+</div>
+</footer> 
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script> 
+</body>
+</html>
